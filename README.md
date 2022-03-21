@@ -1,5 +1,7 @@
 ## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px">
 
+
+![NUX_Octodex](https://user-images.githubusercontent.com/71550705/159283147-67562299-4ca9-4e57-9971-080c9bd8de07.gif)
 <!--
 **ranaberi/ranaberi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
