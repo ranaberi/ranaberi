@@ -6,7 +6,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Working on earning my Software Enginnering bachelor degree.
+- 🎓 &nbsp; Working on earning my Software Engineering bachelor degree.
 - 💼 &nbsp; Freelancing and interning.
 - 🌱 &nbsp; Learning more about Back-end development and Computer Vision.
 
