@@ -6,7 +6,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; 
-- 💼 &nbsp; 
+- 💼 &nbsp; FullStack .Net Engineer
 - 🌱 &nbsp; 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
